@@ -1,2 +1,2 @@
 # blogs
-Blog posts from the Geo Web team
+An archive of blog posts from the Geo Web team.
