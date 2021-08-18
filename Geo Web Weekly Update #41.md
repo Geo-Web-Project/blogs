@@ -30,8 +30,7 @@ The Geo Web&#39;s digital land registry system is conceptually similar to the we
 
 The digital land registry and supporting administrative functions are implemented as Ethereum smart contracts.(1) Used in conjunction with Web3 tools like [The Graph](https://thegraph.com/), [Ceramic](https://ceramic.network/), [IPFS](https://ipfs.io/), and [Filecoin](https://filecoin.io/), the Geo Web is implemented as a full-stack p2p network that can resist the centralizing forces that came to define Web 2.0.
 
-![](RackMultipart20210818-4-161uhbe_html_6e18eb7703f30b54.png)
-
+![Geo Web Architecture](https://user-images.githubusercontent.com/15019279/129945240-831041f6-2295-423b-80cb-e032635dd492.png)
 An architecture diagram of the Geo Web&#39;s core infrastructure and user interfaces
 
 In a traditional web browser, it&#39;s a URL that drives the user experience. In a Geo Web _spatial browser_, it&#39;s geolocation (via GPS, [FOAM](https://foam.space/location), and/or additional sensory data).
