@@ -16,7 +16,7 @@ The Geo Web is definitely a synthesis of ideas explored by many technologists, e
 
 [_Where Good Ideas Come From_](https://www.amazon.com/dp/B003ZK58TA/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1)by Steven Johnson is an excellent book that thoroughly explores and defines this process. If you can&#39;t dedicate the time to read the book, at least give this [4-min YouTube overview](https://www.youtube.com/watch?v=NugRZGDbPFU) a watch.
 
-For all it&#39;s warts, this is something that Web3 gets right. Open source code is our proverbial coffee shop. Ideas are feely shared, ruthlessly exploited/critiqued, and forked. We embrace the connectivity and evolution of ideas. The space is better for it.
+For all its warts, this is something that Web3 gets right. Open source code is our proverbial coffee shop. Ideas are feely shared, ruthlessly exploited/critiqued, and forked. We embrace the connectivity and evolution of ideas. The space is better for it.
 
 ## Technical
 
@@ -25,7 +25,7 @@ For all it&#39;s warts, this is something that Web3 gets right. Open source code
 
 ## Community
 
-- The Geo Web was featured in a [new article about augmented reality property rights](https://www.protocol.com/entertainment/upland-augmented-reality-real-estate) on Protocol.com. The article does a pretty good job of capturing the core intuitions people have (or will have) about &quot;their&quot; property rights in a world filled with augmented reality. Hopefully we can build support more support for our ideas and solutions through coverage like this!
+- The Geo Web was featured in a [new article about augmented reality property rights](https://www.protocol.com/entertainment/upland-augmented-reality-real-estate) on Protocol.com. The article does a pretty good job of capturing the core intuitions people have (or will have) about &quot;their&quot; property rights in a world filled with augmented reality. Hopefully we can build more support for our ideas and solutions through coverage like this!
 
 ## On Deck
 
