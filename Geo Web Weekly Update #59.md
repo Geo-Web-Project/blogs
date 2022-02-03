@@ -20,8 +20,8 @@ For all it&#39;s warts, this is something that Web3 gets right. Open source code
 
 ## Technical
 
-- We release a [new Github repo](https://github.com/Geo-Web-Project/datamodels) and process for contributing Ceramic schemas that can be used on the Geo Web. It&#39;s an exciting step to cultivating collaboration and open standard development on our network.
-- We AR/3D models anchored to set latitude, longitude, and altitude points served through Ceramic streams working. The spatial browser interface uses WebGL. Up next is generalizing the framework and integrating it with Geo Web land parcels.
+- We released a [new Github repo](https://github.com/Geo-Web-Project/datamodels) and process for contributing Ceramic schemas that can be used on the Geo Web. It&#39;s an exciting step to cultivating collaboration and open standard development on our network.
+- We have a working implementation of AR/3D models anchored to set latitude, longitude, and altitude points served through Ceramic streams. The spatial browser interface uses WebGL. Up next is generalizing the framework and integrating it with Geo Web land parcels.
 
 ## Community
 
