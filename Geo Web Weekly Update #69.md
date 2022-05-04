@@ -6,7 +6,7 @@ The real headline out of Optimism last week was about experimentation in governa
 
 ## Building Better Governance
 
-Some of the biggest recent news in crytoland was Optimism PBC&#39;s [announcement of the creation of the Optimism Collective](https://twitter.com/optimismPBC/status/1519001562345005057?s=20&amp;t=ZAU1d_UWrcElpkyCs3EVgg).
+Some of the biggest recent news in cryptoland was Optimism PBC&#39;s [announcement of the creation of the Optimism Collective](https://twitter.com/optimismPBC/status/1519001562345005057?s=20&amp;t=ZAU1d_UWrcElpkyCs3EVgg).
 
 For many, the headline was the creation and (future) airdrop of the OP governance token. Because… &quot;free money!&quot;
 
