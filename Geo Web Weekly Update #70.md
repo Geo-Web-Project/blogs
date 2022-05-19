@@ -1,6 +1,6 @@
 # Wildfire: Weekly Update #70
 
-https://www.geoweb.network/post/weekly-update-69
+https://www.geoweb.network/post/weekly-update-70
 
 Exploring the yin and yang of nature&#39;s ultimate self-regulating force. Plus updates from the Geo Web project (5/5/22 - 5/10/22).
 
