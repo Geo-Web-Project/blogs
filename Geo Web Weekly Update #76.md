@@ -16,15 +16,15 @@ A couple years back, Ben Thompson of Strachery described [this era as a logical 
 
 I am.
 
-Smart contracts and decentralized services (like Filecoin, Helium, etc.) running on blockchains offer unparalleled scalability and capital efficiency for (certain types of) ideas to become world changing realities.
+Smart contracts and decentralized services (like Filecoin, Helium, etc.) running on blockchains offer unparalleled scalability and capital efficiency for (certain types of) ideas to become world-changing realities.
 
-Cloud OPEX morphs into transactional costs not even paid by the &quot;startup&quot; (unless they chose too). Projects can avoid hiring a team of ongoing reliability/maintenance personnel for the web3 parts of the stack. More than ever, it&#39;s about execution and implementation of the core vision.
+Cloud OPEX morphs into transactional costs not even paid by the &quot;startup&quot; (unless they chose to). Projects can avoid hiring a team of ongoing reliability/maintenance personnel for the web3 parts of the stack. More than ever, it&#39;s about the execution and merit of the core vision.
 
 Non-upgradable smart contracts take the idea of &quot;[default alive](http://www.paulgraham.com/aord.html)&quot; to the extreme: Uniswap contracts will live on no matter what Uniswap Labs does.
 
 That&#39;s not to say there aren&#39;t tradeoffs and adjustments to be made in this shift. &quot;Move fast and break things&quot; is a terrible approach to designing and developing smart contracts. Gas optimization takes real expertise and is best done upfront. Blockchains have ecosystem-level scaling challenges to address, but I&#39;m confident with roll-ups and sharding that our blockchain of choice, Ethereum, [will get where it needs to be](https://vitalik.ca/general/2021/12/06/endgame.html).
 
-The net result though is a more accessible, competitive, and powerful playing field for innovation than we&#39;ve ever seen before. Web3 is full of builders and founders making big impacts outside of Silicon Valley and with some still in high school. I&#39;ll bet on supercharged, [permissionless innovation winning in the long-run every time](https://www.geoweb.network/post/weekly-update-75).
+The net result though is a more accessible, competitive, and powerful playing field for innovation than we&#39;ve ever seen before. Web3 is full of builders and founders making big impacts outside of Silicon Valley and with some still in high school. I&#39;ll bet on supercharged, [permissionless innovation winning in the long run every time](https://www.geoweb.network/post/weekly-update-75).
 
 ## Technical
 
