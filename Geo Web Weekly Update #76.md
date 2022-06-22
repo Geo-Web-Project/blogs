@@ -12,7 +12,7 @@ Once upon a time, software startups had to spend a good portion of their initial
 
 Enter AWS. Instead of big capital outlays and a dedicated infra team, a startup could deploy their code to AWS and immediately benefit from Amazon&#39;s economies of scale, security, and instant scalability. CAPEX was turned into OPEX that scaled with use (i.e. user growth). Small, nimble teams could compete with the behemoths better than ever before on the basis of their focused value proposition.
 
-A couple years back, Ben Thompson of Stratechery described [this era as a logical endpoint](https://stratechery.com/2020/the-end-of-the-beginning/) to the paradigm shifts that undergirded the tech industry&#39;s disruptive productivity gains. To be fair to Thompson, in subsequent writings he&#39;s acknowledged the potential of blockchains, but he and many others aren&#39;t convinced yet.
+A couple of years back, Ben Thompson of Stratechery described [this era as a logical endpoint](https://stratechery.com/2020/the-end-of-the-beginning/) to the paradigm shifts that undergirded the tech industry&#39;s disruptive productivity gains. To be fair to Thompson, in subsequent writings he&#39;s acknowledged the potential of blockchains, but he and many others aren&#39;t convinced yet.
 
 I am.
 
